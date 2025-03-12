@@ -2,6 +2,7 @@ package com.api.models.request;
 
 public class SignupRequest {
 
+	//json to java object
 	private String username;
 	private String password;
 	private String email;
