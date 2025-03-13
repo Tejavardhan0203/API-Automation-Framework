@@ -4,6 +4,7 @@ import java.util.List;
 
 public class LoginResponse {
 
+	//java object to json
 	private String token;
 	private String type;
 	private int id;

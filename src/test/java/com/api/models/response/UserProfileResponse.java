@@ -2,6 +2,7 @@ package com.api.models.response;
 
 public class UserProfileResponse {
 
+	// java object to json
 	private String username;
 	private String id;
 	private String email;
