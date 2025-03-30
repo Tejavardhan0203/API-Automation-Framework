@@ -7,7 +7,7 @@ import com.api.base.AuthService;
 import io.restassured.response.Response;
 
 public class ForgotPasswordTest {
-	
+	// forgot password tests
 	@Test(description = "verify forgot password test")
 	public void forgotPasswordTest() {
 		
