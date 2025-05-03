@@ -14,7 +14,7 @@ public class GetProfileTest {
 
 	@Test(description= "retreiving user profile")
 	public void getProfile() {
-		
+		//get profile seervice
 		LoginRequest loginRequest= new LoginRequest("teja9898" ,"teja9898");
 		AuthService authService= new AuthService();
 		Response response=authService.login(loginRequest);
