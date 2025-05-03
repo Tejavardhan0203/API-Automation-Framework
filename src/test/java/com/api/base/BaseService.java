@@ -10,6 +10,7 @@ import io.restassured.specification.RequestSpecification;
 
 public class BaseService {
 
+	//base service for token post and get
 	private static final String BASE_URL = "http://64.227.160.186:8080"; 
 	private RequestSpecification requestSpecification;
 	
