@@ -2,7 +2,7 @@ package com.api.models.request;
 
 public class LoginRequest {
 
-	//json to java objects
+	//JSON object to java objects
 	private String username;
 	private String password;
 	public LoginRequest(String username, String password) {
