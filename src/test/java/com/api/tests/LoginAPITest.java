@@ -12,7 +12,7 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
 public class LoginAPITest {
-	//login api test
+	//login API test
 	@Test(description= "verify if login is working")
 	public void loginTest() {
 
